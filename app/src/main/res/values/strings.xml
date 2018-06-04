@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android3_4</string>
+    <string name="error_load_user">Error load user.</string>
+    <string name="error_load_user_repos">Error load user repositories</string>
+</resources>
